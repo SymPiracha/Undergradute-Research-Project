@@ -15,4 +15,4 @@ determined threshold achieves an accuracy as high as 87.5% on the test dataset. 
 encouraging discovery that we deem would open more possibilities for scene recognition
 of robots.
 
-[Read the paper here](https://github.com/SymPiracha/Undergradute-Research-Project/Model-Vision-Report.pdf)
+[Read the paper here](https://github.com/SymPiracha/Undergradute-Research-Project/blob/main/Model-Vision-Report.pdf)
