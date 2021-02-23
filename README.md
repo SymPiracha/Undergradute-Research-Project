@@ -1,7 +1,7 @@
 ## Research on Model-Based Vision for Scene Classification by Jiuqi Wang, Moyang Chen, Sym Piracha, Emma Wu
 
-### Abstract
-Abstract― Recognizing scenes, where the robotic agent is in, is crucial for
+
+**Abstract** ― Recognizing scenes, where the robotic agent is in, is crucial for
 autonomous robot localization, mapping, and navigation. This report presents a study on a
 model-based vision system that aims to classify scenes based on input images. The 
 system extracts features and properties that include dimension, lines, vanishing point, as 
@@ -14,3 +14,5 @@ accuracy is only around 56% on the validation dataset, the system with the final
 determined threshold achieves an accuracy as high as 87.5% on the test dataset. It is an
 encouraging discovery that we deem would open more possibilities for scene recognition
 of robots.
+
+[Read the paper here] (https://github.com/SymPiracha/Undergradute-Research-Project)
